@@ -1,6 +1,6 @@
 org 100h
 
 pusha
-mov ah, 0x00
-mov al, 0x03
+mov ah, 00h
+mov al, 03h
 int 10h
